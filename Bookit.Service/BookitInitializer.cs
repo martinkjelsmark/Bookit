@@ -15,12 +15,12 @@ namespace Bookit.Service
             var users = new List<User> {
                 new User { 
                     Name = "Martin Kjelsmark",
-                    Phone = "22494980",
+                    Phone = "12345678",
                     Age = 1980
                 },
                 new User { 
-                    Name = "Doris Hartung Kjelsmark",
-                    Phone = "22194166",
+                    Name = "Doris Kjelsmark",
+                    Phone = "87654321",
                     Age = 1980
                 }
             };

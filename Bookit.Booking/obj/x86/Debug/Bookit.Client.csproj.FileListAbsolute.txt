@@ -46,3 +46,5 @@ C:\Users\dkmkl\Documents\Visual Studio 2010\Projects\Bookit\Bookit.Booking\obj\x
 C:\Users\dkmkl\Documents\Visual Studio 2010\Projects\Bookit\Bookit.Booking\obj\x86\Debug\User.g.cs
 C:\Users\dkmkl\Documents\Visual Studio 2010\Projects\Bookit\Bookit.Booking\bin\Debug\Bookit.DTO.dll
 C:\Users\dkmkl\Documents\Visual Studio 2010\Projects\Bookit\Bookit.Booking\bin\Debug\Bookit.DTO.pdb
+C:\Users\dkmkl\Documents\My Dropbox\App\Bookit\Bookit.Booking\obj\x86\Debug\Bookit.Booking.exe
+C:\Users\dkmkl\Documents\My Dropbox\App\Bookit\Bookit.Booking\obj\x86\Debug\Bookit.Booking.pdb
