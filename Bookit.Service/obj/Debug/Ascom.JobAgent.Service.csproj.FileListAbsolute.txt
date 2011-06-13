@@ -1,0 +1,10 @@
+C:\Users\dkmkl\Documents\My Dropbox\Ascom\SVN\JobAgent\TimerTick_RIP\Ascom.JobAgent.Service\bin\Ascom.JobAgent.Service.dll
+C:\Users\dkmkl\Documents\My Dropbox\Ascom\SVN\JobAgent\TimerTick_RIP\Ascom.JobAgent.Service\bin\Ascom.JobAgent.Service.pdb
+C:\Users\dkmkl\Documents\My Dropbox\Ascom\SVN\JobAgent\TimerTick_RIP\Ascom.JobAgent.Service\bin\Ascom.JobAgent.Model.dll
+C:\Users\dkmkl\Documents\My Dropbox\Ascom\SVN\JobAgent\TimerTick_RIP\Ascom.JobAgent.Service\bin\Ascom.JobAgent.Model.pdb
+C:\Users\dkmkl\Documents\My Dropbox\Ascom\SVN\JobAgent\TimerTick_RIP\Ascom.JobAgent.Service\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dkmkl\Documents\My Dropbox\Ascom\SVN\JobAgent\TimerTick_RIP\Ascom.JobAgent.Service\obj\Debug\Ascom.JobAgent.Service.dll
+C:\Users\dkmkl\Documents\My Dropbox\Ascom\SVN\JobAgent\TimerTick_RIP\Ascom.JobAgent.Service\obj\Debug\Ascom.JobAgent.Service.pdb
+C:\Users\dkmkl\Documents\My Dropbox\Ascom\SVN\JobAgent\TimerTick_RIP\Ascom.JobAgent.Service\bin\log4net.config
+C:\Users\dkmkl\Documents\My Dropbox\Ascom\SVN\JobAgent\TimerTick_RIP\Ascom.JobAgent.Service\bin\log4net.dll
+C:\Users\dkmkl\Documents\My Dropbox\Ascom\SVN\JobAgent\TimerTick_RIP\Ascom.JobAgent.Service\bin\log4net.xml

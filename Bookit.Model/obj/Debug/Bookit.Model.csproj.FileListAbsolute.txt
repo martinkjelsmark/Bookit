@@ -1,0 +1,14 @@
+C:\Users\dkmkl\Documents\Visual Studio 2010\Projects\GeekLab\GeekLab.Model\bin\Debug\GeekLab.Model.dll
+C:\Users\dkmkl\Documents\Visual Studio 2010\Projects\GeekLab\GeekLab.Model\bin\Debug\GeekLab.Model.pdb
+C:\Users\dkmkl\Documents\Visual Studio 2010\Projects\GeekLab\GeekLab.Model\bin\Debug\EntityFramework.dll
+C:\Users\dkmkl\Documents\Visual Studio 2010\Projects\GeekLab\GeekLab.Model\bin\Debug\EntityFramework.xml
+C:\Users\dkmkl\Documents\Visual Studio 2010\Projects\GeekLab\GeekLab.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dkmkl\Documents\Visual Studio 2010\Projects\GeekLab\GeekLab.Model\obj\Debug\GeekLab.Model.dll
+C:\Users\dkmkl\Documents\Visual Studio 2010\Projects\GeekLab\GeekLab.Model\obj\Debug\GeekLab.Model.pdb
+C:\Users\dkmkl\Documents\Visual Studio 2010\Projects\Bookit\Bookit.Model\bin\Debug\Bookit.Model.dll
+C:\Users\dkmkl\Documents\Visual Studio 2010\Projects\Bookit\Bookit.Model\bin\Debug\Bookit.Model.pdb
+C:\Users\dkmkl\Documents\Visual Studio 2010\Projects\Bookit\Bookit.Model\bin\Debug\EntityFramework.dll
+C:\Users\dkmkl\Documents\Visual Studio 2010\Projects\Bookit\Bookit.Model\bin\Debug\EntityFramework.xml
+C:\Users\dkmkl\Documents\Visual Studio 2010\Projects\Bookit\Bookit.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dkmkl\Documents\Visual Studio 2010\Projects\Bookit\Bookit.Model\obj\Debug\Bookit.Model.dll
+C:\Users\dkmkl\Documents\Visual Studio 2010\Projects\Bookit\Bookit.Model\obj\Debug\Bookit.Model.pdb

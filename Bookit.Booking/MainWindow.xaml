@@ -1,0 +1,5 @@
+﻿<NavigationWindow x:Class="Bookit.Booking.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Bookit" Height="350" Width="500" Source="User.xaml">
+</NavigationWindow>

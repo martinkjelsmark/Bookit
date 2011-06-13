@@ -1,0 +1,5 @@
+C:\Users\dkmkl\Documents\Visual Studio 2010\Projects\GeekLab\GeekLab.DTO\bin\Debug\GeekLab.DTO.dll
+C:\Users\dkmkl\Documents\Visual Studio 2010\Projects\GeekLab\GeekLab.DTO\bin\Debug\GeekLab.DTO.pdb
+C:\Users\dkmkl\Documents\Visual Studio 2010\Projects\GeekLab\GeekLab.DTO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dkmkl\Documents\Visual Studio 2010\Projects\GeekLab\GeekLab.DTO\obj\Debug\GeekLab.DTO.dll
+C:\Users\dkmkl\Documents\Visual Studio 2010\Projects\GeekLab\GeekLab.DTO\obj\Debug\GeekLab.DTO.pdb

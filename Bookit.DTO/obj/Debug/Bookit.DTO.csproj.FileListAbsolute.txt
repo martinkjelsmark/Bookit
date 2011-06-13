@@ -1,0 +1,5 @@
+C:\Users\dkmkl\Documents\Visual Studio 2010\Projects\Bookit\Bookit.DTO\bin\Debug\Bookit.DTO.dll
+C:\Users\dkmkl\Documents\Visual Studio 2010\Projects\Bookit\Bookit.DTO\bin\Debug\Bookit.DTO.pdb
+C:\Users\dkmkl\Documents\Visual Studio 2010\Projects\Bookit\Bookit.DTO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dkmkl\Documents\Visual Studio 2010\Projects\Bookit\Bookit.DTO\obj\Debug\Bookit.DTO.dll
+C:\Users\dkmkl\Documents\Visual Studio 2010\Projects\Bookit\Bookit.DTO\obj\Debug\Bookit.DTO.pdb
