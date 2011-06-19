@@ -1,0 +1,23 @@
+﻿<Page x:Class="Bookit.ClientBooking.Pages.UserList"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="313" d:DesignWidth="550"
+	Title="Vælg aktivitet">
+    <Page.Resources>
+        <DataTemplate x:Key="LastNameFirst" DataType="Bookit.DTO.UserDTO">
+            <StackPanel Margin="10 10 10 0" Orientation="Horizontal">
+                <TextBlock FontWeight="bold" Text="{Binding Path=name}"/>
+                <TextBlock Text=", "/>
+                <TextBlock Text="{Binding Path=phone}"/>
+            </StackPanel>
+        </DataTemplate>
+    </Page.Resources>
+    <Grid Height="315" Width="526">
+        <Label Content="Vælg bruger:" Height="35" HorizontalAlignment="Left" Margin="22,28,0,0" Name="label1" VerticalAlignment="Top" FontSize="18" FontWeight="Bold" Width="433" />
+        <ListBox x:Name="lstCustomers" ItemTemplate="{StaticResource LastNameFirst}"/>
+        <Button Content="Vælg" Height="23" HorizontalAlignment="Left" Margin="22,186,0,0" Name="button1" VerticalAlignment="Top" Width="75" Click="button1_Click" />
+    </Grid>
+</Page>

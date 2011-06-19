@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="BookitData-Web.config Connection String" description="BookitData Connection String used in web.config by the application to access the database." defaultvalue="Server=.\SQLExpress;Database=GeekLab.Model.GeekLabData;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='BookitData']/@connectionString" />
+  </parameter>
+</parameters>

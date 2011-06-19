@@ -10,3 +10,15 @@ C:\Users\dkmkl\Documents\Visual Studio 2010\Projects\Bookit\Bookit.Service\bin\E
 C:\Users\dkmkl\Documents\Visual Studio 2010\Projects\Bookit\Bookit.Service\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\dkmkl\Documents\Visual Studio 2010\Projects\Bookit\Bookit.Service\obj\Debug\Bookit.Service.dll
 C:\Users\dkmkl\Documents\Visual Studio 2010\Projects\Bookit\Bookit.Service\obj\Debug\Bookit.Service.pdb
+C:\Users\dkmkl\Documents\My Dropbox\App\Bookit\Bookit.Service\bin\log4net.config
+C:\Users\dkmkl\Documents\My Dropbox\App\Bookit\Bookit.Service\bin\Bookit.Service.dll
+C:\Users\dkmkl\Documents\My Dropbox\App\Bookit\Bookit.Service\bin\Bookit.Service.pdb
+C:\Users\dkmkl\Documents\My Dropbox\App\Bookit\Bookit.Service\bin\Bookit.DTO.dll
+C:\Users\dkmkl\Documents\My Dropbox\App\Bookit\Bookit.Service\bin\Bookit.Model.dll
+C:\Users\dkmkl\Documents\My Dropbox\App\Bookit\Bookit.Service\bin\EntityFramework.dll
+C:\Users\dkmkl\Documents\My Dropbox\App\Bookit\Bookit.Service\bin\Bookit.DTO.pdb
+C:\Users\dkmkl\Documents\My Dropbox\App\Bookit\Bookit.Service\bin\Bookit.Model.pdb
+C:\Users\dkmkl\Documents\My Dropbox\App\Bookit\Bookit.Service\bin\EntityFramework.xml
+C:\Users\dkmkl\Documents\My Dropbox\App\Bookit\Bookit.Service\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dkmkl\Documents\My Dropbox\App\Bookit\Bookit.Service\obj\Debug\Bookit.Service.dll
+C:\Users\dkmkl\Documents\My Dropbox\App\Bookit\Bookit.Service\obj\Debug\Bookit.Service.pdb

@@ -14,7 +14,7 @@ using System.Windows.Shapes;
 using RestSharp;
 using Bookit.Model;
 
-namespace Bookit.Booking
+namespace Bookit.ClientBooking
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
@@ -24,6 +24,8 @@ namespace Bookit.Booking
         public MainWindow()
         {
             InitializeComponent();
+
+            ShowsNavigationUI = false;
         }
     }
 }

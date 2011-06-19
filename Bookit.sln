@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bookit.Client", "Bookit.Booking\Bookit.Client.csproj", "{B7A64F3A-F9BD-4B39-99E5-184FA99C13F5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bookit.ClientBooking", "Bookit.Booking\Bookit.ClientBooking.csproj", "{B7A64F3A-F9BD-4B39-99E5-184FA99C13F5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bookit.DTO", "Bookit.DTO\Bookit.DTO.csproj", "{FF810472-BEB2-49EE-8539-E6C5CE50E637}"
 EndProject
